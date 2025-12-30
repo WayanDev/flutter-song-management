@@ -65,6 +65,7 @@ Aplikasi ini **tidak menggunakan backend / API**, seluruh data disimpan secara l
   - Jazz
 
 **Filter Genre**
+
 ![Filter Genre](docs/image/filter-genre.png)
 ---
 
@@ -88,10 +89,15 @@ Aplikasi ini **tidak menggunakan backend / API**, seluruh data disimpan secara l
 - Snackbar notifikasi untuk setiap aksi
 
 **Tambah Lagu**
+
 ![Tambah Lagu](docs/image/tambah.png)
+
 **Edit Lagu**
+
 ![Edit Lagu](docs/image/edit.png)
+
 **Hapus Lagu**
+
 ![Hapus Lagu](docs/image/hapus.png)
 ---
 
