@@ -52,6 +52,7 @@ Aplikasi ini **tidak menggunakan backend / API**, seluruh data disimpan secara l
 - Empty state jika belum ada data
 
 **ListView**
+
 ![ListView](docs/image/list-lagu.png)
 
 ---
